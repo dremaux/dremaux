@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DREMAUX Lucas
 - 👀 I’m interested in  la programmation
-- 🌱 I’m currently learning  à utilisé Symfony
+- 🌱 I’m currently learning  à utilisé Symfony / Angular
 - 💞️ I’m lookin collaborate on ...
 - 📫 How to reach me lucas.dremaux@akka.eu
 
